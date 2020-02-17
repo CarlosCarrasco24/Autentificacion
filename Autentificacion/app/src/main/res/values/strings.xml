@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Autentificaciones_17_02</string>
+    <string name="etCorreo">E-Mail</string>
+    <string name="etPass">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnLogout">Logout</string>
+    <string name="btnRegistrar">Registrar</string>
+
+</resources>
